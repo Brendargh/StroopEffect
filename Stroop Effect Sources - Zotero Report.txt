@@ -1,0 +1,543 @@
+  *
+    Type 	Note
+    Date Added 	6/29/2017, 9:50:10 PM
+    Modified 	7/3/2017, 4:17:54 PM
+
+    Key Words Glossary
+
+    Attitude - The learned, relatively stable tendency to respond to
+    people, concepts, and events in an evaluative way.
+
+    Generalization - the tendency to respond in the same way to
+    different but similar stimuli
+
+    Impulse control - The degree to which a person can control the
+    desire for immediate gratification or other
+
+    Impulse control disorders - a class of psychiatric disorders
+    characterized by the failure to resist a temptation, urge, or
+    impulse that may harm oneself or others.
+
+    Inhibition - constraint of a behaviour
+
+    Prediction models - using statistics to predict behaviours
+
+    Self-control - the ability to choose long-term goals over short-term
+    impulses
+
+    task performance - someone performing a specific task
+
+    valence weighting - the intrinsic goodness or badness of a thing
+
+  *
+
+
+        Competition between rhythmic and linguistic meaning revisited:
+        the effect of task demands.
+
+    Type 	Journal Article
+    Author 	Laura M. Getz
+    Author 	Sophie Wohltjen
+    Author 	Michael Kubovy
+    URL
+    http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=121245694&site=ehost-live&scope=site
+
+    Volume 	70
+    Issue 	7
+    Pages 	1151-1165
+    Publication 	Quarterly Journal of Experimental Psychology
+    ISSN 	17470218
+    Date 	July 2017
+    Journal Abbr 	Quarterly Journal of Experimental Psychology
+    Library Catalog 	EBSCOhost
+    Abstract 	This paper revisits the conclusion of our previous work
+    regarding the dominance of meaning in the competition between
+    rhythmic parsing and linguistic parsing. We played five-note rhythm
+    patterns in which each sound is a spoken word of a five-word
+    sentence. We asked listeners to indicate the starting point of the
+    rhythm while disregarding which word would normally be heard as the
+    first word of the sentence. In four studies, we varied task demands
+    by introducing differences in rhythm complexity, rhythm ambiguity,
+    rhythm pairing, and semantic coherence. We found that task
+    complexity affects the dominance of meaning. We therefore amend our
+    previous conclusion: when processing resources are taxed, listeners
+    do not always primarily attend to meaning; instead, they primarily
+    attend to the aspect of the pattern (rhythm or meaning) that is more
+    salient. [ABSTRACT FROM AUTHOR]
+    Archive 	aph
+    Date Added 	7/3/2017, 6:45:43 PM
+    Modified 	7/3/2017, 6:45:43 PM
+
+
+          Tags:
+
+      o Auditory necklaces
+      o AUDITORY perception testing
+      o Complexity
+      o LANGUAGE rhythm
+      o PARSING (Grammar)
+      o Rhythmic organization
+      o SENTENCE particles (Grammar)
+      o Sentence processing
+      o STROOP effect
+
+
+          Notes:
+
+      o
+
+        Accession Number: 121245694; Getz, Laura M. 1 Wohltjen, Sophie 1
+        Kubovy, Michael 1; Affiliation:  1: Department of Psychology,
+        University of Virginia, Charlottesville, VA, USA; Source Info:
+        Jul2017, Vol. 70 Issue 7, p1151; Subject Term: SENTENCE
+        particles (Grammar); Subject Term: STROOP effect; Subject Term:
+        LANGUAGE rhythm; Subject Term: PARSING (Grammar); Subject Term:
+        AUDITORY perception testing; Author-Supplied Keyword: Auditory
+        necklaces; Author-Supplied Keyword: Complexity; Author-Supplied
+        Keyword: Rhythmic organization; Author-Supplied Keyword:
+        Sentence processing; Author-Supplied Keyword: Stroop effect;
+        Number of Pages: 15p; Document Type: Article
+
+  *
+
+
+        generalization | concept formation
+
+    Type 	Web Page
+    URL 	https://www.britannica.com/topic/generalization
+    Accessed 	6/29/2017, 9:57:24 PM
+    Abstract 	generalization: in psychology, the tendency to respond in
+    the same way to different but similar stimuli. For example, a dog
+    conditioned to salivate to a tone of a particular pitch and loudness
+    will also salivate with considerable regularity in response to tones
+    of higher and lower pitch. The generalized response...
+    Website Title 	Encyclopedia Britannica
+    Date Added 	6/29/2017, 9:57:24 PM
+    Modified 	6/29/2017, 9:57:24 PM
+
+
+          Attachments
+
+      o Snapshot
+  *
+
+
+        Glossary of Psychological Terms
+
+    Type 	Web Page
+    URL 	http://www.apa.org/research/action/glossary.aspx
+    Accessed 	6/29/2017, 9:49:26 PM
+    Abstract 	A glossary giving definitions of common psychological
+    terminology.
+    Website Title 	http://www.apa.org
+    Date Added 	6/29/2017, 9:49:26 PM
+    Modified 	6/29/2017, 9:49:26 PM
+
+
+          Notes:
+
+      o
+
+
+          Attachments
+
+      o Snapshot
+  *
+
+
+        Impulse control | definition of impulse control by Medical
+        dictionary
+
+    Type 	Web Page
+    URL 	http://medical-dictionary.thefreedictionary.com/impulse+control
+    Accessed 	6/29/2017, 10:00:02 PM
+    Date Added 	6/29/2017, 10:00:02 PM
+    Modified 	6/29/2017, 10:00:02 PM
+
+
+          Attachments
+
+      o Impulse control | definition of impulse control by Medical
+        dictionary
+  *
+
+
+        Impulse control disorder
+
+    Type 	Encyclopedia Article
+    URL
+    https://en.wikipedia.org/w/index.php?title=Impulse_control_disorder&oldid=784016744
+
+    Rights 	Creative Commons Attribution-ShareAlike License
+    Date 	2017-06-06T00:41:34Z
+    Extra 	Page Version ID: 784016744
+    Library Catalog 	Wikipedia
+    Encyclopedia Title 	Wikipedia
+    Language 	en
+    Abstract 	Impulse control disorder (ICD) is a class of psychiatric
+    disorders characterized by impulsivity – failure to resist a
+    temptation, urge or impulse that may harm oneself or others. Many
+    psychiatric disorders feature impulsivity, including
+    substance-related disorders, behavioral addictions, attention
+    deficit hyperactivity disorder, antisocial personality disorder,
+    borderline personality disorder, conduct disorder and some mood
+    disorders. The fifth edition of the American Psychiatric
+    Association's Diagnostic and statistical manual of mental disorders
+    (DSM-5) that was published in 2013 includes a new chapter (not in
+    DSM-IV-TR) on Disruptive, Impulse-Control, and Conduct Disorders
+    covering disorders "characterized by problems in emotional and
+    behavioral self-control". It also includes Impulse-Control Disorders
+    Not Elsewhere Classified, which encompasses intermittent explosive
+    disorder, pyromania, and kleptomania. Five behavioural stages
+    characterize impulsivity: an impulse, growing tension, pleasure on
+    acting, relief from the urge and finally guilt (which may or may not
+    arise).
+    Date Added 	6/29/2017, 10:02:39 PM
+    Modified 	6/29/2017, 10:02:39 PM
+
+
+          Attachments
+
+      o Snapshot
+  *
+
+
+        inhibition | psychology
+
+    Type 	Web Page
+    URL 	https://www.britannica.com/topic/inhibition-psychology
+    Accessed 	7/3/2017, 4:10:29 PM
+    Abstract 	inhibition: in psychology, conscious or unconscious
+    constraint or curtailment of a process or behaviour, especially of
+    impulses or desires. Inhibition serves necessary social functions,
+    abating or preventing certain impulses from being acted on (e.g.,
+    the desire to hit someone in the heat of anger) and...
+    Website Title 	Encyclopedia Britannica
+    Date Added 	7/3/2017, 4:10:29 PM
+    Modified 	7/3/2017, 4:10:29 PM
+
+
+          Attachments
+
+      o Snapshot
+  *
+
+
+        Limits on the generalizability of context-driven control.
+
+    Type 	Journal Article
+    Author 	Thomas G. Hutcheon
+    Author 	Daniel H. Spieler
+    URL
+    http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=121245703&site=ehost-live&scope=site
+
+    Volume 	70
+    Issue 	7
+    Pages 	1292-1304
+    Publication 	Quarterly Journal of Experimental Psychology
+    ISSN 	17470218
+    Date 	July 2017
+    Journal Abbr 	Quarterly Journal of Experimental Psychology
+    Library Catalog 	EBSCOhost
+    Abstract 	Context-driven control refers to the fast and flexible
+    weighting of stimulus dimensions that may be applied at the onset of
+    a stimulus. Evidence for context-driven control comes from
+    interference tasks in which participants encounter a high proportion
+    of incongruent trials at one location and a high proportion of
+    congruent trials at another location. Since the size of the
+    congruency effect varies as a function of location, this suggests
+    that stimulus dimensions are weighted differently based on the
+    context in which they appear. However, manipulations of condition
+    proportion are often confounded by variations in the frequency with
+    which particular stimuli are encountered. To date, there is limited
+    evidence for the context-driven control in the absence of stimulus
+    frequency confounds. In the current paper, we attempt to replicate
+    and extend one such finding [Crump, M. J. C., & Milliken, B. (2009).
+    The flexibility of context-specific control: Evidence for
+    context-driven generalization of item-specific control settings. The
+    Quarterly Journal of Experimental Psychology, 62, 1523–1532]. Across
+    three experiments we fail to find evidence for context-driven
+    control in the absence of stimulus frequency confounds. Based on
+    these results, we argue that consistency in the informativeness of
+    the irrelevant dimension may be required for context-driven control
+    to emerge. [ABSTRACT FROM PUBLISHER]
+    Archive 	aph
+    Date Added 	7/3/2017, 4:32:44 PM
+    Modified 	7/3/2017, 4:32:44 PM
+
+
+          Tags:
+
+      o Cognitive control
+      o COMPUTER software testing
+      o CONGRUENCES (Geometry)
+      o CONTEXT-aware computing
+      o INFORMATION processing
+      o Selective attention
+      o Stroop
+      o STROOP effect
+
+
+          Notes:
+
+      o
+
+        Accession Number: 121245703; Hutcheon, Thomas G. 1 Spieler,
+        Daniel H. 2; Affiliation:  1: Psychology Program, Bard College,
+        Annandale-On-Hudson, NY, USA  2: School of Psychology, Georgia
+        Institute of Technology, Atlanta, GA, USA; Source Info: Jul2017,
+        Vol. 70 Issue 7, p1292; Subject Term: INFORMATION processing;
+        Subject Term: STROOP effect; Subject Term: COMPUTER software
+        testing; Subject Term: CONTEXT-aware computing; Subject Term:
+        CONGRUENCES (Geometry); Author-Supplied Keyword: Cognitive
+        control; Author-Supplied Keyword: Selective attention;
+        Author-Supplied Keyword: Stroop; Number of Pages: 13p; Document
+        Type: Article
+
+  *
+
+
+        More than words (and faces): evidence for a Stroop effect of
+        prosody in emotion word processing.
+
+    Type 	Journal Article
+    Author 	Piera Filippi
+    Author 	Sebastian Ocklenburg
+    Author 	Daniel L. Bowling
+    Author 	Larissa Heege
+    Author 	Onur Güntürkün
+    Author 	Albert Newen
+    Author 	Bart de Boer
+    URL
+    http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=123083250&site=ehost-live&scope=site
+
+    Volume 	31
+    Issue 	5
+    Pages 	879-891
+    Publication 	Cognition & Emotion
+    ISSN 	02699931
+    Date 	August 2017
+    Journal Abbr 	Cognition & Emotion
+    Library Catalog 	EBSCOhost
+    Abstract 	Humans typically combine linguistic and nonlinguistic
+    information to comprehend emotions. We adopted an emotion
+    identification Stroop task to investigate how different channels
+    interact in emotion communication. In experiment 1, synonyms of
+    “happy” and “sad” were spoken with happy and sad prosody.
+    Participants had more difficulty ignoring prosody than ignoring
+    verbal content. In experiment 2, synonyms of “happy” and “sad” were
+    spoken with happy and sad prosody, while happy or sad faces were
+    displayed. Accuracy was lower when two channels expressed an emotion
+    that was incongruent with the channel participants had to focus on,
+    compared with the cross-channel congruence condition. When
+    participants were required to focus on verbal content, accuracy was
+    significantly lower also when prosody was incongruent with verbal
+    content and face. This suggests that prosody biases emotional verbal
+    content processing, even when conflicting with verbal content and
+    face simultaneously. Implications for multimodal communication and
+    language evolution studies are discussed. [ABSTRACT FROM AUTHOR]
+    Archive 	aph
+    Date Added 	7/3/2017, 6:44:53 PM
+    Modified 	7/3/2017, 6:44:53 PM
+
+
+          Tags:
+
+      o emotion
+      o EMOTIONS (Psychology)
+      o INCONGRUITY
+      o language evolution
+      o multimodal communication
+      o prosody
+      o STROOP effect
+      o Stroop task
+      o VERBAL ability
+      o WORD processing
+
+
+          Notes:
+
+      o
+
+        Accession Number: 123083250; Filippi, Piera 1,2 Ocklenburg,
+        Sebastian 3 Bowling, Daniel L. 4 Heege, Larissa 5 Güntürkün,
+        Onur 2,3 Newen, Albert 2,6 de Boer, Bart 1; Affiliation:  1:
+        Artificial Intelligence Laboratory, Vrije Universiteit Brussel,
+        Brussels, Belgium  2: Center for Mind, Brain and Cognitive
+        Evolution, Ruhr-University Bochum, Bochum, Germany  3:
+        Department of Biopsychology, Ruhr-University Bochum, Bochum,
+        Germany  4: Department of Cognitive Biology, University of
+        Vienna, Vienna, Austria  5: Department of General and Biological
+        Psychology, University of Wuppertal, Wuppertal, Germany  6:
+        Institute of Philosophy II, Ruhr-University Bochum, Bochum,
+        Germany; Source Info: Aug2017, Vol. 31 Issue 5, p879; Subject
+        Term: STROOP effect; Subject Term: VERBAL ability; Subject Term:
+        WORD processing; Subject Term: EMOTIONS (Psychology); Subject
+        Term: INCONGRUITY; Author-Supplied Keyword: emotion;
+        Author-Supplied Keyword: language evolution; Author-Supplied
+        Keyword: multimodal communication; Author-Supplied Keyword:
+        prosody; Author-Supplied Keyword: Stroop task; Number of Pages:
+        13p; Illustrations: 1 Diagram, 5 Charts, 2 Graphs; Document
+        Type: Article
+
+  *
+
+
+        P Value Results
+
+    Type 	Web Page
+    URL 	https://graphpad.com/quickcalcs/pValue2/
+    Accessed 	7/4/2017, 9:15:32 PM
+    Date Added 	7/4/2017, 9:15:32 PM
+    Modified 	7/4/2017, 9:15:32 PM
+
+
+          Attachments
+
+      o P Value Results
+  *
+
+
+        Reproducing the location-based context-specific proportion
+        congruent effect for frequency unbiased items: A reply to
+        Hutcheon and Spieler (2016).
+
+    Type 	Journal Article
+    Author 	Matthew J. C. Crump
+    Author 	Nicholaus P. Brosowsky
+    Author 	Bruce Milliken
+    URL
+    http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=121745938&site=ehost-live&scope=site
+
+    Volume 	70
+    Issue 	9
+    Pages 	1792-1807
+    Publication 	Quarterly Journal of Experimental Psychology
+    ISSN 	17470218
+    Date 	September 2017
+    Journal Abbr 	Quarterly Journal of Experimental Psychology
+    Library Catalog 	EBSCOhost
+    Abstract 	Stroop effects can be modulated by context-specific cues
+    associated with different levels of proportion congruent, even for
+    items that appear equally frequently in each context. This result
+    has important theoretical implications, because it rules out
+    frequency-driven learning explanations of context-specific
+    proportion congruent (CSPC) effects and leaves open the possibility
+    that a cue-driven retrieval process can reinstate attentional
+    control settings in a rapid online fashion. The purpose of the
+    present work was to address reproducibility concerns that have been
+    raised about this finding. We conducted several reproductions and
+    novel extensions using Amazon’s mechanical Turk in both Stroop and
+    flanker tasks. We successfully replicated the central finding that
+    CSPC effects can be observed for frequency-unbiased items. We also
+    provide new Monte Carlo simulation analyses to estimate
+    reproducibility of the phenomena that show important limitations on
+    these designs for measuring contextual control. [ABSTRACT FROM
+    PUBLISHER]
+    Archive 	aph
+    Date Added 	7/3/2017, 4:27:16 PM
+    Modified 	7/3/2017, 4:27:16 PM
+
+
+          Tags:
+
+      o ATTENTION
+      o Automaticity
+      o Contextual control
+      o MONTE Carlo method
+      o NEUROPSYCHOLOGICAL tests
+      o Proportion congruent
+      o Replication
+      o REPLICATION (Experimental design)
+      o STROOP effect
+
+
+          Notes:
+
+      o
+
+        <p>Accession Number: 121745938; Crump, Matthew J. C. 1 Brosowsky, Nicholaus P. 2 Milliken, Bruce 3; Affiliation:&nbsp;&nbsp;1: Department of Psychology, Brooklyn College and the Graduate Center of the City University of New York, Brooklyn, NY, USA&nbsp;&nbsp;2: Department of Psychology, Graduate Center of the City University of New York, Brooklyn, NY, USA&nbsp;&nbsp;3: Department of Psychology, Neuroscience & Behaviour, McMaster University, Hamilton, ON, Canada; Source Info: Sep2017, Vol. 70 Issue 9, p1792; Subject Term: ATTENTION; Subject Term: REPLICATION (Experimental design); Subject Term: MONTE Carlo method; Subject Term: STROOP effect; Subject Term: NEUROPSYCHOLOGICAL tests; Author-Supplied Keyword: Attention; Author-Supplied Keyword: Automaticity; Author-Supplied Keyword: Contextual control; Author-Supplied Keyword: Proportion congruent; Author-Supplied Keyword: Replication; Number of Pages: 16p; Document Type: Article</p>
+
+  *
+
+
+        The role of valence weighting in impulse control.
+
+    Type 	Journal Article
+    Author 	Peter V. Zunick
+    Author 	Javier A. Granados Samayoa
+    Author 	Russell H. Fazio
+    URL
+    http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=123758745&site=ehost-live&scope=site
+
+    Volume 	72
+    Pages 	32-38
+    Publication 	Journal of Experimental Social Psychology
+    ISSN 	00221031
+    Date 	September 2017
+    Journal Abbr 	Journal of Experimental Social Psychology
+    Library Catalog 	EBSCOhost
+    Abstract 	We propose that individuals' valence weighting biases—the
+    extent to which they tend to overweight positive or negative valence
+    in attitude generalization—play an important role in impulse
+    control. Specifically, people who tend to overweight positive
+    valence should likewise overweight impulses, which are essentially
+    urges to achieve positively-valued outcomes, in their initial
+    appraisals of self-control situations, leading to a greater
+    likelihood of impulse control failure. Conversely, people who
+    underweight positive valence should also underweight impulses in
+    these initial evaluative appraisals and should thus be more likely
+    to successfully control their impulses. However, we predicted this
+    relationship would hold only for individuals low in trait
+    self-control, since those high in trait self-control should be both
+    motivated and able to override their initial valence weighting-based
+    appraisals. We supported these predictions across two studies using
+    different impulse control performance measures: a frustrating
+    anagram task (Study 1) and a Stroop task (Study 2). [ABSTRACT FROM
+    AUTHOR]
+    Archive 	aph
+    Date Added 	6/29/2017, 9:40:23 PM
+    Modified 	6/29/2017, 9:40:23 PM
+
+
+          Tags:
+
+      o Attitude generalization
+      o Impulse control
+      o IMPULSE control disorders
+      o Inhibition
+      o PREDICTION models
+      o SELF-control
+      o STROOP effect
+      o TASK performance
+      o Valence weighting
+
+
+          Notes:
+
+      o
+
+        Accession Number: 123758745; Zunick, Peter V. 1 Granados
+        Samayoa, Javier A. 1 Fazio, Russell H. 1; Email Address:
+        fazio.11@osu.edu; Affiliation:  1: The Ohio State University,
+        Department of Psychology, 1827 Neil Ave, Columbus, OH 43210,
+        United States; Source Info: Sep2017, Vol. 72, p32; Subject Term:
+        IMPULSE control disorders; Subject Term: SELF-control; Subject
+        Term: STROOP effect; Subject Term: TASK performance; Subject
+        Term: PREDICTION models; Author-Supplied Keyword: Attitude
+        generalization; Author-Supplied Keyword: Impulse control;
+        Author-Supplied Keyword: Inhibition; Author-Supplied Keyword:
+        Self-control; Author-Supplied Keyword: Valence weighting; Number
+        of Pages: 7p; Document Type: Article
+
+  *
+
+
+        t-table.pdf
+
+    Type 	Attachment
+    URL 	http://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf
+    Accessed 	7/3/2017, 8:21:39 PM
+    Date Added 	7/3/2017, 8:21:39 PM
+    Modified 	7/3/2017, 8:21:40 PM
+
